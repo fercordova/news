@@ -1,0 +1,36 @@
+body 
+{
+      font-family: Trade Winds;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family:Trade Winds;
+  }
+}
+.navbar-light .navbar-brand {
+    color: darkblue;
+}
+.jumbotron {
+    background-attachment: fixed;
+    background-color :darkblue; 
+    size="550px";
+    background-size: cover;
+  
+    color: white;  
+            text-shadow: 25px 25px 25px black;
+}
+
+table 
+{ 
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th 
+{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+tr:nth-child(even) 
+{
+  background-color: #dddddd;
+}
